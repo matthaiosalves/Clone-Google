@@ -93,6 +93,7 @@ footer .list {
   justify-content: space-between;
   align-items: center;
   padding-top: 15px;
+  flex-wrap: wrap;
 }
 footer .list-one ul,
 footer .list-two ul {
