@@ -104,3 +104,9 @@ footer .list-one ul li,
 footer .list-two ul li  {
   list-style: none;
 }
+@media (max-width:600px){
+  footer .list {
+    justify-content: center;
+    gap: 15px;
+  }
+}
